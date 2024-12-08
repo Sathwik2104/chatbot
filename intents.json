@@ -3346,5 +3346,687 @@
             "Timeless relics are ancient artifacts and objects that hold historical and cultural significance, preserving the stories of our ancestors.",
             "Archaeologists and historians continue to unearth relics that shed light on human history and civilization."
         ]
-    }
+    },
+    
+        {
+            "tag": "action_movies",
+            "patterns": [
+                "I want action movies",
+                "Recommend some action-packed movies",
+                "What are good action movies?"
+            ],
+            "responses": [
+                "Mad Max: Fury Road offers non-stop thrilling action and incredible visuals.",
+                "John Wick is a must-watch for its sleek action sequences and compelling protagonist."
+            ]
+        },
+        {
+            "tag": "romance_movies",
+            "patterns": [
+                "I want romantic movies",
+                "Recommend some romance movies",
+                "What are good romantic movies?"
+            ],
+            "responses": [
+                "Pride and Prejudice (2005) is a timeless romantic classic.",
+                "The Notebook is a deeply emotional and heartwarming love story."
+            ]
+        },
+        {
+            "tag": "comedy_movies",
+            "patterns": [
+                "I want comedy movies",
+                "Recommend some funny movies",
+                "What are good comedy movies?"
+            ],
+            "responses": [
+                "Superbad is a hilarious coming-of-age comedy.",
+                "The Grand Budapest Hotel offers a quirky and visually stunning comedic experience."
+            ]
+        },
+        {
+            "tag": "horror_movies",
+            "patterns": [
+                "I want horror movies",
+                "Recommend some scary movies",
+                "What are good horror movies?"
+            ],
+            "responses": [
+                "The Conjuring is a terrifying supernatural thriller based on true events.",
+                "Hereditary is a deeply unsettling and critically acclaimed horror film."
+            ]
+        },
+        {
+            "tag": "mystery_movies",
+            "patterns": [
+                "I want mystery movies",
+                "Recommend some mysterious movies",
+                "What are good mystery movies?"
+            ],
+            "responses": [
+                "Knives Out is a modern whodunit with a star-studded cast.",
+                "Shutter Island offers a psychological and suspenseful mystery experience."
+            ]
+        },
+        {
+            "tag": "sci_fi_movies",
+            "patterns": [
+                "I want sci-fi movies",
+                "Recommend some science fiction movies",
+                "What are good sci-fi movies?"
+            ],
+            "responses": [
+                "Interstellar is a visually stunning exploration of space and time.",
+                "Blade Runner 2049 is a thought-provoking and visually mesmerizing sci-fi masterpiece."
+            ]
+        },
+        {
+            "tag": "fantasy_movies",
+            "patterns": [
+                "I want fantasy movies",
+                "Recommend some fantasy movies",
+                "What are good fantasy movies?"
+            ],
+            "responses": [
+                "The Lord of the Rings trilogy is a groundbreaking epic fantasy series.",
+                "Pan's Labyrinth is a dark and magical tale of fantasy and war."
+            ]
+        },
+        {
+            "tag": "thriller_movies",
+            "patterns": [
+                "I want thriller movies",
+                "Recommend some thrilling movies",
+                "What are good thriller movies?"
+            ],
+            "responses": [
+                "Seven is a gripping and dark psychological thriller.",
+                "Gone Girl offers a chilling and twist-filled mystery experience."
+            ]
+        },
+        {
+            "tag": "animated_movies",
+            "patterns": [
+                "I want animated movies",
+                "Recommend some animated films",
+                "What are good animated movies?"
+            ],
+            "responses": [
+                "Spider-Man: Into the Spider-Verse is a visually groundbreaking animated superhero film.",
+                "Toy Story is a heartwarming classic loved by audiences of all ages."
+            ]
+        },
+        {
+            "tag": "family_movies",
+            "patterns": [
+                "I want family-friendly movies",
+                "Recommend some family movies",
+                "What are good family movies?"
+            ],
+            "responses": [
+                "The Lion King is a timeless family-friendly classic.",
+                "Paddington 2 is a delightful movie filled with charm and humor."
+            ]
+        },
+        {
+            "tag": "drama_movies",
+            "patterns": [
+                "I want drama movies",
+                "Recommend some dramatic films",
+                "What are good drama movies?"
+            ],
+            "responses": [
+                "The Shawshank Redemption is an inspiring tale of hope and perseverance.",
+                "The Pursuit of Happyness is a touching story of determination and love."
+            ]
+        },
+        {
+            "tag": "romantic_comedy_movies",
+            "patterns": [
+                "I want romantic comedy movies",
+                "Recommend some rom-com movies",
+                "What are good romantic comedy movies?"
+            ],
+            "responses": [
+                "Crazy Rich Asians is a glamorous and funny romantic comedy.",
+                "When Harry Met Sally is a classic rom-com with unforgettable dialogue."
+            ]
+        },
+        {
+            "tag": "superhero_movies",
+            "patterns": [
+                "I want superhero movies",
+                "Recommend some superhero films",
+                "What are good superhero movies?"
+            ],
+            "responses": [
+                "The Dark Knight is a critically acclaimed and intense superhero movie.",
+                "Avengers: Endgame is an epic culmination of the Marvel Cinematic Universe."
+            ]
+        },
+        {
+            "tag": "historical_movies",
+            "patterns": [
+                "I want historical movies",
+                "Recommend some movies based on history",
+                "What are good historical movies?"
+            ],
+            "responses": [
+                "Schindler's List is a poignant and powerful historical drama.",
+                "Braveheart is an epic tale of Scottish independence and bravery."
+            ]
+        },
+        {
+            "tag": "psychological_movies",
+            "patterns": [
+                "I want psychological movies",
+                "Recommend some mind-bending films",
+                "What are good psychological movies?"
+            ],
+            "responses": [
+                "Inception is a complex and visually stunning psychological thriller.",
+                "Black Swan is a gripping exploration of ambition and mental breakdown."
+            ]
+        },
+        {
+            "tag": "war_movies",
+            "patterns": [
+                "I want war movies",
+                "Recommend some movies about war",
+                "What are good war movies?"
+            ],
+            "responses": [
+                "Saving Private Ryan is a visceral and powerful World War II film.",
+                "1917 is a technically impressive and gripping war story."
+            ]
+        },
+        {
+            "tag": "musical_movies",
+            "patterns": [
+                "I want musical movies",
+                "Recommend some movies with music",
+                "What are good musical movies?"
+            ],
+            "responses": [
+                "La La Land is a modern, heartfelt musical with stunning performances.",
+                "The Greatest Showman is a vibrant and uplifting musical spectacle."
+            ]
+        },
+        {
+            "tag": "biographical_movies",
+            "patterns": [
+                "I want biographical movies",
+                "Recommend some movies about real people",
+                "What are good biographical movies?"
+            ],
+            "responses": [
+                "The Social Network offers a compelling look at the creation of Facebook.",
+                "Bohemian Rhapsody is a celebratory biopic of Freddie Mercury and Queen."
+            ]
+        },
+        {
+            "tag": "dark_comedy_movies",
+            "patterns": [
+                "I want dark comedy movies",
+                "Recommend some satirical films",
+                "What are good dark comedy movies?"
+            ],
+            "responses": [
+                "The Wolf of Wall Street is a wild and hilarious dark comedy.",
+                "Parasite blends social commentary with dark humor masterfully."
+            ]
+        },
+        {
+            "tag": "indie_movies",
+            "patterns": [
+                "I want indie movies",
+                "Recommend some independent films",
+                "What are good indie movies?"
+            ],
+            "responses": [
+                "Moonlight is a beautifully shot and emotionally gripping indie film.",
+                "Lady Bird is a heartfelt coming-of-age story with wit and warmth."
+            ]
+        },
+
+            {
+                "tag": "hindi_action_movies",
+                "patterns": [
+                    "I want Hindi action movies",
+                    "Recommend some Bollywood action films",
+                    "What are good Hindi action movies?"
+                ],
+                "responses": [
+                    "War is a high-octane action film with breathtaking stunts and a gripping plot.",
+                    "Shershaah is a biographical action film showcasing the bravery of an Indian soldier."
+                ]
+            },
+            {
+                "tag": "hindi_romance_movies",
+                "patterns": [
+                    "I want Bollywood romantic movies",
+                    "Recommend some Hindi romantic films",
+                    "What are good Hindi romantic movies?"
+                ],
+                "responses": [
+                    "Dilwale Dulhania Le Jayenge is a timeless classic that defined Bollywood romance.",
+                    "Jab We Met is a feel-good romantic comedy with unforgettable chemistry."
+                ]
+            },
+            {
+                "tag": "tamil_thriller_movies",
+                "patterns": [
+                    "I want Tamil thriller movies",
+                    "Recommend some Tamil suspense films",
+                    "What are good Tamil thriller movies?"
+                ],
+                "responses": [
+                    "Vikram Vedha is an edge-of-your-seat thriller with brilliant storytelling.",
+                    "Kaithi is an intense action thriller with a unique premise."
+                ]
+            },
+            {
+                "tag": "telugu_action_movies",
+                "patterns": [
+                    "I want Telugu action movies",
+                    "Recommend some Telugu action-packed films",
+                    "What are good Telugu action movies?"
+                ],
+                "responses": [
+                    "RRR is an epic action-drama that showcases stunning visuals and emotional storytelling.",
+                    "Baahubali: The Beginning and its sequel are grand historical action films that redefined Indian cinema."
+                ]
+            },
+            {
+                "tag": "malayalam_drama_movies",
+                "patterns": [
+                    "I want Malayalam drama movies",
+                    "Recommend some Malayalam emotional films",
+                    "What are good Malayalam drama movies?"
+                ],
+                "responses": [
+                    "Drishyam is a masterclass in suspense and family drama.",
+                    "Kumbalangi Nights is a heartwarming tale of family and relationships."
+                ]
+            },
+            {
+                "tag": "kannada_action_movies",
+                "patterns": [
+                    "I want Kannada action movies",
+                    "Recommend some Kannada action-packed films",
+                    "What are good Kannada action movies?"
+                ],
+                "responses": [
+                    "KGF: Chapter 1 and Chapter 2 are revolutionary action films with breathtaking visuals and intense storytelling.",
+                    "Ugramm is a powerful and high-octane action movie."
+                ]
+            },
+            {
+                "tag": "hindi_comedy_movies",
+                "patterns": [
+                    "I want Hindi comedy movies",
+                    "Recommend some Bollywood funny films",
+                    "What are good Hindi comedy movies?"
+                ],
+                "responses": [
+                    "3 Idiots is a hilarious yet emotional journey about friendship and dreams.",
+                    "Hera Pheri is a cult comedy classic with laugh-out-loud moments."
+                ]
+            },
+            {
+                "tag": "tamil_fantasy_movies",
+                "patterns": [
+                    "I want Tamil fantasy movies",
+                    "Recommend some Tamil magical films",
+                    "What are good Tamil fantasy movies?"
+                ],
+                "responses": [
+                    "Ponniyin Selvan (Part 1 & 2) is an epic historical-fantasy based on Kalki's classic novel.",
+                    "Irumugan combines sci-fi and fantasy with a gripping plot."
+                ]
+            },
+            {
+                "tag": "telugu_romantic_movies",
+                "patterns": [
+                    "I want Telugu romantic movies",
+                    "Recommend some Telugu love stories",
+                    "What are good Telugu romantic movies?"
+                ],
+                "responses": [
+                    "Geetha Govindam is a sweet and entertaining romantic comedy.",
+                    "Arjun Reddy is a bold and unconventional romantic drama."
+                ]
+            },
+            {
+                "tag": "malayalam_thriller_movies",
+                "patterns": [
+                    "I want Malayalam thriller movies",
+                    "Recommend some Malayalam suspense films",
+                    "What are good Malayalam thriller movies?"
+                ],
+                "responses": [
+                    "Joji is a dark and gripping psychological thriller inspired by Shakespeare's Macbeth.",
+                    "C U Soon is a unique thriller shot entirely during the pandemic using digital formats."
+                ]
+            },
+            {
+                "tag": "hindi_biographical_movies",
+                "patterns": [
+                    "I want Hindi biographical movies",
+                    "Recommend some Bollywood biopics",
+                    "What are good Hindi biographical movies?"
+                ],
+                "responses": [
+                    "Dangal is an inspiring sports biopic about the Phogat sisters.",
+                    "MS Dhoni: The Untold Story chronicles the life of India's cricketing legend."
+                ]
+            },
+            {
+                "tag": "kannada_drama_movies",
+                "patterns": [
+                    "I want Kannada drama movies",
+                    "Recommend some Kannada emotional films",
+                    "What are good Kannada drama movies?"
+                ],
+                "responses": [
+                    "Kantara is a mystical and emotional drama rooted in folklore.",
+                    "Tithi is a critically acclaimed film exploring family dynamics in a rural setting."
+                ]
+            },
+            {
+                "tag": "hindi_historical_movies",
+                "patterns": [
+                    "I want Hindi historical movies",
+                    "Recommend some Bollywood history films",
+                    "What are good Hindi historical movies?"
+                ],
+                "responses": [
+                    "Jodhaa Akbar is a grand and romantic historical drama.",
+                    "Padmaavat is a visually stunning period drama based on legend and history."
+                ]
+            },
+            {
+                "tag": "tamil_sports_movies",
+                "patterns": [
+                    "I want Tamil sports movies",
+                    "Recommend some Tamil movies about sports",
+                    "What are good Tamil sports movies?"
+                ],
+                "responses": [
+                    "Chak De India (Tamil dubbed) is an inspiring story about women's hockey.",
+                    "Irudhi Suttru (Tamil) / Saala Khadoos (Hindi) is an emotional and intense sports drama."
+                ]
+            },
+            {
+                "tag": "telugu_comedy_movies",
+                "patterns": [
+                    "I want Telugu comedy movies",
+                    "Recommend some funny Telugu films",
+                    "What are good Telugu comedy movies?"
+                ],
+                "responses": [
+                    "Ala Vaikunthapurramuloo is a family entertainer with comedy and heart.",
+                    "Eega is a quirky and humorous revenge story with a twist!"
+                ]
+            },
+            {
+                "tag": "malayalam_family_movies",
+                "patterns": [
+                    "I want Malayalam family movies",
+                    "Recommend some Malayalam feel-good films",
+                    "What are good Malayalam family movies?"
+                ],
+                "responses": [
+                    "Njan Prakashan is a lighthearted and relatable family drama.",
+                    "Jacobinte Swargarajyam is an inspiring and emotional family-centric story."
+                ]
+            },
+            {
+                "tag": "hindi_dark_comedy_movies",
+                "patterns": [
+                    "I want Hindi dark comedy movies",
+                    "Recommend some Bollywood satirical films",
+                    "What are good Hindi dark comedy movies?"
+                ],
+                "responses": [
+                    "Blackmail is a quirky and hilarious dark comedy with a twist.",
+                    "Newton is a satirical yet thought-provoking story about democracy."
+                ]
+            },
+            {
+                "tag": "tamil_psychological_movies",
+                "patterns": [
+                    "I want Tamil psychological movies",
+                    "Recommend some Tamil mind-bending films",
+                    "What are good Tamil psychological movies?"
+                ],
+                "responses": [
+                    "Anniyan is a thrilling and psychological movie with a strong message.",
+                    "Ratsasan is an intense psychological thriller revolving around a serial killer."
+                ]
+            },
+            {
+                "tag": "indian_indie_movies",
+                "patterns": [
+                    "I want Indian indie movies",
+                    "Recommend some independent Indian films",
+                    "What are good Indian indie movies?"
+                ],
+                "responses": [
+                    "The Lunchbox is a heartwarming indie gem with an unconventional love story.",
+                    "Masaan is a poignant and thought-provoking story set in Varanasi."
+                ]
+            },
+            {
+                "tag": "hindi_fantasy_movies",
+                "patterns": [
+                    "I want Hindi fantasy movies",
+                    "Recommend some Bollywood magical films",
+                    "What are good Hindi fantasy movies?"
+                ],
+                "responses": [
+                    "Tumbbad is a dark and visually stunning fantasy-horror.",
+                    "Paheli is a magical tale with themes of love and folklore."
+                ]
+            },
+
+                {
+                    "tag": "mahesh_babu_movies",
+                    "patterns": [
+                        "Recommend Mahesh Babu movies",
+                        "What are the best movies of Mahesh Babu?",
+                        "I want movies starring Mahesh Babu"
+                    ],
+                    "responses": [
+                        "Pokiri is an iconic action thriller with mass appeal.",
+                        "Srimanthudu is an inspiring story of a man transforming a village.",
+                        "Maharshi highlights the importance of agriculture with a powerful message."
+                    ]
+                },
+                {
+                    "tag": "prabhas_movies",
+                    "patterns": [
+                        "Recommend Prabhas movies",
+                        "What are the best movies of Prabhas?",
+                        "I want movies starring Prabhas"
+                    ],
+                    "responses": [
+                        "Baahubali: The Beginning and Baahubali: The Conclusion are epic blockbusters.",
+                        "Darling is a heartwarming romantic comedy.",
+                        "Mirchi is a perfect mix of action, family drama, and romance."
+                    ]
+                },
+                {
+                    "tag": "allu_arjun_movies",
+                    "patterns": [
+                        "Recommend Allu Arjun movies",
+                        "What are the best movies of Allu Arjun?",
+                        "I want movies starring Allu Arjun"
+                    ],
+                    "responses": [
+                        "Pushpa: The Rise is a high-octane action drama with a powerful performance.",
+                        "Ala Vaikunthapurramuloo is a family entertainer with soulful music.",
+                        "Arya is a cult romantic film that made Allu Arjun a star."
+                    ]
+                },
+                {
+                    "tag": "jr_ntr_movies",
+                    "patterns": [
+                        "Recommend Jr. NTR movies",
+                        "What are the best movies of Jr. NTR?",
+                        "I want movies starring Jr. NTR"
+                    ],
+                    "responses": [
+                        "RRR is an epic action-drama showcasing Jr. NTR's powerful acting.",
+                        "Janatha Garage is a family drama with a strong message about nature.",
+                        "Temper is an action-packed movie with an intense storyline."
+                    ]
+                },
+                {
+                    "tag": "ram_charan_movies",
+                    "patterns": [
+                        "Recommend Ram Charan movies",
+                        "What are the best movies of Ram Charan?",
+                        "I want movies starring Ram Charan"
+                    ],
+                    "responses": [
+                        "Magadheera is a visually stunning historical fantasy and a career-defining movie.",
+                        "Rangasthalam is a brilliant period drama with incredible performances.",
+                        "Dhruva is an action-packed thriller with a clever plot."
+                    ]
+                },
+                {
+                    "tag": "pawan_kalyan_movies",
+                    "patterns": [
+                        "Recommend Pawan Kalyan movies",
+                        "What are the best movies of Pawan Kalyan?",
+                        "I want movies starring Pawan Kalyan"
+                    ],
+                    "responses": [
+                        "Gabbar Singh is a high-energy action-comedy and a massive hit.",
+                        "Attarintiki Daredi is a family entertainer with a heartfelt story.",
+                        "Khushi is a romantic drama that remains a fan favorite."
+                    ]
+                },
+                {
+                    "tag": "chiranjeevi_movies",
+                    "patterns": [
+                        "Recommend Chiranjeevi movies",
+                        "What are the best movies of Chiranjeevi?",
+                        "I want movies starring Chiranjeevi"
+                    ],
+                    "responses": [
+                        "Indra is an iconic mass action film with a strong storyline.",
+                        "Tagore is a social drama with a message about corruption.",
+                        "Shankar Dada MBBS is a hilarious and emotional comedy-drama."
+                    ]
+                },
+                {
+                    "tag": "nani_movies",
+                    "patterns": [
+                        "Recommend Nani movies",
+                        "What are the best movies of Nani?",
+                        "I want movies starring Nani"
+                    ],
+                    "responses": [
+                        "Jersey is an emotional sports drama about following dreams.",
+                        "Eega is a unique fantasy revenge story with a creative twist.",
+                        "Shyam Singha Roy is a period drama with brilliant performances."
+                    ]
+                },
+                {
+                    "tag": "vijay_deverakonda_movies",
+                    "patterns": [
+                        "Recommend Vijay Deverakonda movies",
+                        "What are the best movies of Vijay Deverakonda?",
+                        "I want movies starring Vijay Deverakonda"
+                    ],
+                    "responses": [
+                        "Arjun Reddy is a bold and intense romantic drama.",
+                        "Geetha Govindam is a light-hearted romantic comedy.",
+                        "Dear Comrade is a passionate love story with strong themes."
+                    ]
+                },
+                {
+                    "tag": "nagarjuna_movies",
+                    "patterns": [
+                        "Recommend Nagarjuna movies",
+                        "What are the best movies of Nagarjuna?",
+                        "I want movies starring Nagarjuna"
+                    ],
+                    "responses": [
+                        "Manam is a heartwarming family drama with a unique concept.",
+                        "Shiva is a classic action movie that revolutionized Telugu cinema.",
+                        "Annamayya is a devotional biographical film with incredible music."
+                    ]
+                },
+                {
+                    "tag": "venkatesh_movies",
+                    "patterns": [
+                        "Recommend Venkatesh movies",
+                        "What are the best movies of Venkatesh?",
+                        "I want movies starring Venkatesh"
+                    ],
+                    "responses": [
+                        "Drushyam is a gripping family thriller with suspenseful storytelling.",
+                        "Nuvvu Naaku Nachav is a beloved romantic comedy.",
+                        "F2: Fun and Frustration is a hilarious multi-starrer entertainer."
+                    ]
+                },
+                {
+                    "tag": "ram_pothineni_movies",
+                    "patterns": [
+                        "Recommend Ram Pothineni movies",
+                        "What are the best movies of Ram Pothineni?",
+                        "I want movies starring Ram Pothineni"
+                    ],
+                    "responses": [
+                        "iSmart Shankar is a high-energy action entertainer.",
+                        "Ready is a fun-filled family drama with comedy and romance.",
+                        "Hello Guru Prema Kosame is a breezy romantic comedy."
+                    ]
+                },
+                {
+                    "tag": "akhil_akkineni_movies",
+                    "patterns": [
+                        "Recommend Akhil Akkineni movies",
+                        "What are the best movies of Akhil Akkineni?",
+                        "I want movies starring Akhil Akkineni"
+                    ],
+                    "responses": [
+                        "Most Eligible Bachelor is a charming romantic entertainer.",
+                        "Hello is an action-packed love story with emotional depth.",
+                        "Agent is a spy thriller with adrenaline-pumping action."
+                    ]
+                },
+                {
+                    "tag": "balakrishna_movies",
+                    "patterns": [
+                        "Recommend Balakrishna movies",
+                        "What are the best movies of Balakrishna?",
+                        "I want movies starring Balakrishna"
+                    ],
+                    "responses": [
+                        "Simha is a mass action film with intense performances.",
+                        "Legend is a powerful action drama that resonated with fans.",
+                        "Gautamiputra Satakarni is a historical epic about a warrior king."
+                    ]
+                },
+                {
+                    "tag": "rana_daggubati_movies",
+                    "patterns": [
+                        "Recommend Rana Daggubati movies",
+                        "What are the best movies of Rana Daggubati?",
+                        "I want movies starring Rana Daggubati"
+                    ],
+                    "responses": [
+                        "Baahubali: The Beginning and Baahubali: The Conclusion feature his memorable role as Bhallaladeva.",
+                        "Leader is a political drama with a gripping story.",
+                        "The Ghazi Attack is a war drama based on a submarine mission."
+                    ]
+                }
+            
+            
+                
+    
 ]
